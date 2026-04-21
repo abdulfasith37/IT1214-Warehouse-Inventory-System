@@ -11,3 +11,9 @@ This project is a console-based Java application designed to manage a warehouse'
 5. Run the main class (Warehouse): `java Warehouse`
 
 ## Sample Output
+<img width="823" height="692" alt="SampleOutput1" src="https://github.com/user-attachments/assets/8130ce26-53c8-4ca4-8d42-525b2be17059" />
+
+<img width="578" height="697" alt="SampleOutput2" src="https://github.com/user-attachments/assets/e3f7a2e4-2fc7-4e88-9a6c-4d9581fe8922" />
+
+<img width="488" height="827" alt="SampleOutput3" src="https://github.com/user-attachments/assets/04d47926-1d5f-4e0f-96ae-963da8b5e8b9" />
+
