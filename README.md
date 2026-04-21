@@ -7,7 +7,7 @@ This project is a console-based Java application designed to manage a warehouse'
 1. Ensure you have Java (JDK) installed on your system.
 2. Clone this repository to your local machine.
 3. Open the project in your preferred IDE (like IntelliJ IDEA, Eclipse, or VS Code) or navigate to the source folder in your terminal.
-4. Compile the Java files: `javac Warehouse.java Inventory.java Item.java`
+4. Compile the Java files: `javac Warehouse.java`
 5. Run the main class (Warehouse): `java Warehouse`
 
 ## Sample Output
