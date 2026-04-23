@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-class Warehouse {
-    public static void main(String[] args) {
+class Warehouse{
+    public static void main(String args[]){
         Inventory inventory = new Inventory();
         Scanner scanner = new Scanner(System.in);
         String choice; 
 
-        do {
+        do{
             System.out.println("\n--- Warehouse Menu ---");
             System.out.println("1. Add Item");
             System.out.println("2. Remove Item");
@@ -18,7 +18,7 @@ class Warehouse {
 
             choice = scanner.nextLine();
 
-            switch (choice) {
+            switch (choice){
                 case "1":
                     System.out.print("Enter ID: ");
                     String id = scanner.nextLine();
